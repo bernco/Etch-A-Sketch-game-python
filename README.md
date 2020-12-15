@@ -15,3 +15,4 @@
 
 <b /> press C to clear the screen and return the arrow to initial position
 
+![](sketcher.gif)
